@@ -1,0 +1,1504 @@
+﻿Log file open, 10/28/18 15:45:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FeteForaine
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.201882
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.090s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz, GPU: AMD Radeon HD 7800 Series
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Logiciels/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.28-14.45.53:591][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.28-14.45.53:591][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.28-14.45.53:607][  0]LogHAL: Display: Platform has ~ 8 GB [8541241344 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.28-14.45.53:607][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.28-14.45.53:607][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.28-14.45.53:607][  0]LogInit: Computer: DESKTOP-OFJ801E
+[2018.10.28-14.45.53:607][  0]LogInit: User: KEV
+[2018.10.28-14.45.53:607][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.28-14.45.53:607][  0]LogInit: High frequency timer resolution =3.320338 MHz
+[2018.10.28-14.45.53:608][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.10.28-14.45.53:608][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.28-14.45.53:608][  0]LogMemory: Process Physical Memory: 100.49 MB used, 100.49 MB peak
+[2018.10.28-14.45.53:608][  0]LogMemory: Process Virtual Memory: 84.41 MB used, 84.41 MB peak
+[2018.10.28-14.45.53:608][  0]LogMemory: Physical Memory: 4036.25 MB used,  4109.31 MB free, 8145.56 MB total
+[2018.10.28-14.45.53:608][  0]LogMemory: Virtual Memory: 4620.27 MB used,  4109.31 MB free, 134217728.00 MB total
+[2018.10.28-14.45.53:626][  0]LogInit: Using OS detected language (fr-FR).
+[2018.10.28-14.45.53:626][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.10.28-14.45.53:628][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.10.28-14.45.53:630][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2018.10.28-14.45.53:630][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.28-14.45.53:663][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.28-14.45.53:663][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.28-14.45.54:615][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.28-14.45.54:633][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7800 Series' (Feature Level 11_0)
+[2018.10.28-14.45.54:634][  0]LogD3D11RHI:       2028/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.10.28-14.45.54:636][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.28-14.45.54:636][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.28-14.45.54:636][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.28-14.45.54:640][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.28-14.45.54:640][  0]LogD3D11RHI:     GPU DeviceId: 0x6818 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.28-14.45.54:640][  0]LogWindows: EnumDisplayDevices:
+[2018.10.28-14.45.54:641][  0]LogWindows:    0. 'AMD Radeon HD 7800 Series' (P:1 D:1)
+[2018.10.28-14.45.54:641][  0]LogWindows:    1. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2018.10.28-14.45.54:641][  0]LogWindows:    2. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2018.10.28-14.45.54:642][  0]LogWindows:    3. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2018.10.28-14.45.54:642][  0]LogWindows:    4. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2018.10.28-14.45.54:642][  0]LogWindows:    5. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2018.10.28-14.45.54:643][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.10.28-14.45.54:643][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7800 Series
+[2018.10.28-14.45.54:643][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.7 (internal:22.19.677.257, unified:22.19.677.257)
+[2018.10.28-14.45.54:643][  0]LogD3D11RHI:      Driver Date: 9-22-2017
+[2018.10.28-14.45.54:643][  0]LogRHI: Texture pool is 1419 MB (70% of 2028 MB)
+[2018.10.28-14.45.54:673][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.28-14.45.54:685][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.10.28-14.45.54:686][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (D:/Developpement/Unreal/FeteForaine/Intermediate/Shaders/WorkingDirectory/7036/).
+[2018.10.28-14.45.54:686][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/KEV/AppData/Local/Temp/UnrealShaderWorkingDir/A153794F4E72EFCCC1C447A7BD774F6C/'.
+[2018.10.28-14.45.55:017][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.28-14.45.55:033][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.28-14.45.55:049][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.28-14.45.55:066][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.28-14.45.55:084][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.28-14.45.55:100][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.28-14.45.55:118][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.28-14.45.55:134][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.28-14.45.55:142][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:239][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-14.45.55:241][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.28-14.45.55:307][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.28-14.45.55:307][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.28-14.45.55:335][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.28-14.45.55:335][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.28-14.45.55:350][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.28-14.45.55:365][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.28-14.45.55:380][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.28-14.45.55:395][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.28-14.45.55:405][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.28-14.45.55:405][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.28-14.45.55:471][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.28-14.45.55:471][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.28-14.45.55:471][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.28-14.45.56:333][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.28-14.45.56:406][  0]LogDerivedDataCache: Loaded boot cache 0.07s 86MB C:/Users/KEV/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.28-14.45.56:406][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KEV/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.28-14.45.56:406][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Developpement/Unreal/FeteForaine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.28-14.45.56:407][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.28-14.45.56:407][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Developpement/Unreal/FeteForaine/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.28-14.45.56:407][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.28-14.45.56:420][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.28-14.45.56:433][  0]LogDerivedDataCache: Using Local data cache path C:/Users/KEV/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.28-14.45.56:433][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.28-14.45.56:433][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.28-14.45.56:456][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.28-14.45.56:458][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.28-14.45.56:458][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.28-14.45.56:538][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.10.28-14.45.56:945][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.28-14.45.57:098][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.28-14.45.57:102][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.28-14.45.57:102][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.28-14.45.57:102][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.28-14.45.57:102][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.28-14.45.57:118][  0]LogNetVersion: FeteForaine 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1390260464)
+[2018.10.28-14.45.57:682][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.109059 seconds
+[2018.10.28-14.45.57:690][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.28-14.45.57:690][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.28-14.45.57:690][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.28-14.45.58:628][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.28-14.45.58:641][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.28-14.45.58:792][  0]SourceControl: Source control is disabled
+[2018.10.28-14.45.58:792][  0]SourceControl: Source control is disabled
+[2018.10.28-14.45.58:794][  0]SourceControl: Source control is disabled
+[2018.10.28-14.45.58:795][  0]SourceControl: Source control is disabled
+[2018.10.28-14.45.58:965][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.28-14.45.59:073][  0]LogOcInput: OculusInput pre-init called
+[2018.10.28-14.45.59:142][  0]LogEngine: Initializing Engine...
+[2018.10.28-14.45.59:194][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-5D2F6133
+[2018.10.28-14.45.59:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.28-14.45.59:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.28-14.45.59:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.28-14.45.59:196][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.28-14.45.59:423][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.28-14.45.59:437][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.28-14.45.59:473][  0]LogInit: XAudio2 using 'Haut-parleurs (14- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.28-14.45.59:488][  0]LogInit: FAudioDevice initialized.
+[2018.10.28-14.45.59:489][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.28-14.45.59:607][  0]LogDerivedDataCache: Saved boot cache 0.12s 86MB C:/Users/KEV/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.28-14.45.59:620][  0]LogInit: Texture streaming: Enabled
+[2018.10.28-14.45.59:639][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.28-14.45.59:652][  0]LogInit: Transaction tracking system initialized
+[2018.10.28-14.45.59:678][  0]BlueprintLog: New page: Editor Load
+[2018.10.28-14.45.59:765][  0]LocalizationService: Localization service is disabled
+[2018.10.28-14.46.00:048][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.28-14.46.00:048][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.28-14.46.00:048][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.28-14.46.00:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.28-14.46.00:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.28-14.46.00:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.28-14.46.00:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.28-14.46.00:180][  0]LogFileCache: Scanning file cache for directory 'D:/Developpement/Unreal/FeteForaine/Content/' took 0.02s
+[2018.10.28-14.46.00:180][  0]SourceControl: Source control is disabled
+[2018.10.28-14.46.00:180][  0]Cmd: MAP LOAD FILE="D:/Developpement/Unreal/FeteForaine/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.28-14.46.00:181][  0]LightingResults: New page: Lighting Build
+[2018.10.28-14.46.00:184][  0]MapCheck: New page: Map Check
+[2018.10.28-14.46.00:184][  0]LightingResults: New page: Lighting Build
+[2018.10.28-14.46.01:907][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.28-14.46.02:034][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.28-14.46.02:062][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.28-14.46.02:159][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96,779ms to complete.
+[2018.10.28-14.46.02:159][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.979
+[2018.10.28-14.46.02:252][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-14.46.02:261][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-14.46.02:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-14.46.02:280][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-14.46.02:287][  0]LogCollectionManager: Loaded 0 collections in 0.001816 seconds
+[2018.10.28-14.46.02:329][  0]LogFileCache: Scanning file cache for directory 'D:/Developpement/Unreal/FeteForaine/Saved/Collections/' took 0.01s
+[2018.10.28-14.46.02:329][  0]LogFileCache: Scanning file cache for directory 'D:/Developpement/Unreal/FeteForaine/Content/Developers/KEV/Collections/' took 0.01s
+[2018.10.28-14.46.02:329][  0]LogFileCache: Scanning file cache for directory 'D:/Developpement/Unreal/FeteForaine/Content/Collections/' took 0.01s
+[2018.10.28-14.46.02:329][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.28-14.46.02:340][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2572 classes and 603 folders.
+[2018.10.28-14.46.02:347][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.28-14.46.02:404][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.28-14.46.02:410][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.28-14.46.02:497][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.28-14.46.02:499][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.28-14.46.02:505][  0]LogSlate: Took 0.000508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.28-14.46.02:599][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.10.28-14.46.02:748][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.28-14.46.02:748][  0]LogLoad: (Engine Initialization) Total time: 10.96 seconds
+[2018.10.28-14.46.02:748][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.28-14.46.02:759][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.28-14.46.02:797][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.28-14.46.02:816][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.28-14.46.02:853][  1]LogAssetRegistry: Asset discovery search completed in 6.3379 seconds
+[2018.10.28-14.46.02:856][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.28-14.46.02:856][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2018.10.28-14.46.05:721][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-14.46.05:807][339]LogTemp: Repeating last play command: VR Preview
+[2018.10.28-14.46.05:826][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.46.05:826][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-14.46.05:838][339]PIE: New page: PIE session: FirstPersonExampleMap (28 oct. 2018 16:46:05)
+[2018.10.28-14.46.05:838][339]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.28-14.46.05:873][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034778s)
+[2018.10.28-14.46.05:874][339]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.28-14.46.05:874][339]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2018.10.28-14.46.05:874][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036095s)
+[2018.10.28-14.46.05:918][339]LogInit: XAudio2 using 'Haut-parleurs (14- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.28-14.46.05:928][339]LogInit: FAudioDevice initialized.
+[2018.10.28-14.46.05:932][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-14.46.06:015][339]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.28-14.46.06:021][339]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.28-15.46.06
+[2018.10.28-14.46.06:021][339]LogWorld: Bringing up level for play took: 0.005296
+[2018.10.28-14.46.06:040][339]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.28-14.46.06:048][339]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,673
+[2018.10.28-14.46.06:048][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.46.06:112][340]LogRenderer: Reallocating scene render targets to support 3024x1680 Format 10 NumSamples 1 (Frame:1).
+[2018.10.28-14.46.43:473][679]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.46.43:586][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-14.46.43:636][679]LogSlate: Window 'FeteForaine Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.28-14.46.43:675][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-14.46.43:676][679]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.46.43:738][680]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.10.28-14.46.47:289][870]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.28-14.46.47:296][870]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2018.10.28-14.46.47:912][870]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.10.28-14.46.49:080][870]LogSlate: Took 0.019305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.28-14.46.49:341][871]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.28-14.46.58:043][333]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2018.10.28-14.47.08:816][786]LogTemp: Repeating last play command: VR Preview
+[2018.10.28-14.47.08:840][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.47.08:840][786]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.28-14.47.08:947][786]LogPlayLevel: [PlayLevel] Compiling BP_MotionController before play...
+[2018.10.28-14.47.09:316][786]LogPlayLevel: PlayLevel: Blueprint regeneration took 475 ms (1 blueprints)
+[2018.10.28-14.47.09:316][786]PIE: New page: PIE session: FirstPersonExampleMap (28 oct. 2018 16:47:09)
+[2018.10.28-14.47.09:316][786]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.28-14.47.09:342][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025671s)
+[2018.10.28-14.47.09:342][786]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.28-14.47.09:343][786]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2018.10.28-14.47.09:343][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.026744s)
+[2018.10.28-14.47.09:395][786]LogInit: XAudio2 using 'Haut-parleurs (14- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.28-14.47.09:406][786]LogInit: FAudioDevice initialized.
+[2018.10.28-14.47.09:411][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-14.47.09:493][786]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.28-14.47.09:498][786]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.28-15.47.09
+[2018.10.28-14.47.09:499][786]LogWorld: Bringing up level for play took: 0.005350
+[2018.10.28-14.47.09:521][786]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,801
+[2018.10.28-14.47.09:522][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.47.39:952][872]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.47.40:074][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-14.47.40:382][872]LogSlate: Window 'FeteForaine Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.28-14.47.40:415][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-14.47.40:416][872]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.47.40:488][873]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.10.28-14.47.50:126][407]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.10.28-14.47.50:220][408]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FeteForaine
+[2018.10.28-14.47.50:220][408]LogTemp: CWD: C:\Logiciels\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.28-14.47.50:220][408]LogTemp: Initial Dir: C:\Logiciels\UE_4.20
+[2018.10.28-14.47.50:220][408]LogTemp: Env CWD: C:\Logiciels\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.10.28-14.47.50:220][408]LogTemp: BranchPath = DESKTOP-OFJ801E/C/Logiciels/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-OFJ801E/C/Logiciels/UE_4.20/Engine/Binaries
+[2018.10.28-14.47.50:236][408]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\KEV\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.10.28-14.50.56:011][175]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.28-14.50.56:016][175]LogSlate: Window 'Project Settings' being destroyed
+[2018.10.28-14.50.58:532][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_MotionController" FILE="D:/Developpement/Unreal/FeteForaine/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset" SILENT=true
+[2018.10.28-14.50.58:823][315]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/BP_MotionController12F4676A476A3D3501CAE896949D31C6.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.10.28-14.51.01:927][478]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2018.10.28-14.51.01:931][478]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.10.28-14.51.03:709][573]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/FirstPersonExampleMapB45EC5B64B2C95B1643FF3B7BDAD8966.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.10.28-14.51.03:898][573]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/FirstPersonExampleMap_BuiltDataE0E59FEE424EB667DC8DF7B8F62A8179.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.28-14.51.04:635][623]LogTemp: Repeating last play command: VR Preview
+[2018.10.28-14.51.04:661][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.51.04:661][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.28-14.51.04:661][623]PIE: New page: PIE session: FirstPersonExampleMap (28 oct. 2018 16:51:04)
+[2018.10.28-14.51.04:661][623]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.10.28-14.51.04:763][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101787s)
+[2018.10.28-14.51.04:764][623]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.10.28-14.51.04:764][623]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2018.10.28-14.51.04:764][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.102793s)
+[2018.10.28-14.51.04:813][623]LogInit: XAudio2 using 'Haut-parleurs (14- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.28-14.51.04:823][623]LogInit: FAudioDevice initialized.
+[2018.10.28-14.51.04:829][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-14.51.04:904][623]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.10.28-14.51.04:910][623]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.10.28-15.51.04
+[2018.10.28-14.51.04:910][623]LogWorld: Bringing up level for play took: 0.005280
+[2018.10.28-14.51.04:929][623]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,208
+[2018.10.28-14.51.04:929][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.51.26:934][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.51.27:043][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-14.51.27:084][404]LogSlate: Window 'FeteForaine Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.28-14.51.27:133][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.28-14.51.27:134][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.10.28-14.51.27:226][405]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.10.28-14.55.37:398][125]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/UE/._Revolver.fbx)
+[2018.10.28-14.55.37:624][125]LogFbx: Error: Call to FbxImporter::Initialize() failed.
+[2018.10.28-14.55.37:626][125]LogFbx: Warning: Error returned: Unexpected file type
+[2018.10.28-14.55.37:640][125]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2018.10.28-14.55.42:119][125]LogSlate: Window 'Message' being destroyed
+[2018.10.28-14.55.42:122][125]LogAssetTools: Warning: Failed to import 'E:/UE/._Revolver.fbx'. Failed to create asset '/Game/Assets/Rifle/__Revolver'.
+Please see Output Log for details.
+[2018.10.28-14.55.47:046][423]LogSlate: Window 'Message Log' being destroyed
+[2018.10.28-14.55.47:050][423]LogSlate: Window 'Message Log' being destroyed
+[2018.10.28-14.55.53:093][669]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/UE/._Revolver.obj)
+[2018.10.28-14.55.53:131][669]LogFbx: Loading FBX Scene from E:/UE/._Revolver.obj
+[2018.10.28-14.55.53:138][669]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.28-14.55.53:151][669]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2018.10.28-14.55.54:862][669]LogSlate: Window 'Message' being destroyed
+[2018.10.28-14.55.54:864][669]LogAssetTools: Warning: Failed to import 'E:/UE/._Revolver.obj'. Failed to create asset '/Game/Assets/Rifle/__Revolver'.
+Please see Output Log for details.
+[2018.10.28-14.55.57:386][826]LogSlate: Window 'Message Log' being destroyed
+[2018.10.28-14.55.57:389][826]LogSlate: Window 'Message Log' being destroyed
+[2018.10.28-14.56.03:850][ 14]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/UE/Revolver.fbx)
+[2018.10.28-14.56.03:892][ 14]LogFbx: Loading FBX Scene from E:/UE/Revolver.fbx
+[2018.10.28-14.56.04:069][ 14]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.28-14.56.10:700][ 14]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.28-14.56.10:749][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:749][ 14]LogFbx: Dumping Node START [Bullet.007] 
+[2018.10.28-14.56.10:749][ 14]LogFbx: 	Total Deformer Count 85436608.
+[2018.10.28-14.56.10:749][ 14]LogFbx: 	Attribute (Circle.008) Type (4).
+[2018.10.28-14.56.10:749][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.007 (Type Mesh).
+[2018.10.28-14.56.10:749][ 14]LogFbx: Dumping Node END [Bullet.007]
+[2018.10.28-14.56.10:749][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:749][ 14]LogFbx: Dumping Node START [Bullet.006] 
+[2018.10.28-14.56.10:749][ 14]LogFbx: 	Total Deformer Count 85436608.
+[2018.10.28-14.56.10:749][ 14]LogFbx: 	Attribute (Circle.007) Type (4).
+[2018.10.28-14.56.10:749][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.006 (Type Mesh).
+[2018.10.28-14.56.10:749][ 14]LogFbx: Dumping Node END [Bullet.006]
+[2018.10.28-14.56.10:749][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:749][ 14]LogFbx: Dumping Node START [Bullet.005] 
+[2018.10.28-14.56.10:749][ 14]LogFbx: 	Total Deformer Count 85436608.
+[2018.10.28-14.56.10:749][ 14]LogFbx: 	Attribute (Circle.006) Type (4).
+[2018.10.28-14.56.10:749][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.005 (Type Mesh).
+[2018.10.28-14.56.10:749][ 14]LogFbx: Dumping Node END [Bullet.005]
+[2018.10.28-14.56.10:749][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:749][ 14]LogFbx: Dumping Node START [Bullet.004] 
+[2018.10.28-14.56.10:749][ 14]LogFbx: 	Total Deformer Count 85436608.
+[2018.10.28-14.56.10:749][ 14]LogFbx: 	Attribute (Circle.005) Type (4).
+[2018.10.28-14.56.10:749][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.004 (Type Mesh).
+[2018.10.28-14.56.10:749][ 14]LogFbx: Dumping Node END [Bullet.004]
+[2018.10.28-14.56.10:750][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node START [Bullet.003] 
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Total Deformer Count 85436608.
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Attribute (Circle.004) Type (4).
+[2018.10.28-14.56.10:750][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.003 (Type Mesh).
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node END [Bullet.003]
+[2018.10.28-14.56.10:750][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node START [Bullet.002] 
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Total Deformer Count 85436608.
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Attribute (Circle.003) Type (4).
+[2018.10.28-14.56.10:750][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.002 (Type Mesh).
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node END [Bullet.002]
+[2018.10.28-14.56.10:750][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node START [Bullet.001] 
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Total Deformer Count 85436608.
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Attribute (Circle.002) Type (4).
+[2018.10.28-14.56.10:750][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.001 (Type Mesh).
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node END [Bullet.001]
+[2018.10.28-14.56.10:750][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node START [Bullet] 
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Total Deformer Count 243609776.
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Attribute (Circle) Type (4).
+[2018.10.28-14.56.10:750][ 14]LogFbx: 		[Node Attribute Child 1] Bullet (Type Mesh).
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node END [Bullet]
+[2018.10.28-14.56.10:750][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node START [Rear Sigh] 
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Total Deformer Count 85439488.
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Attribute (Cylinder.001) Type (4).
+[2018.10.28-14.56.10:750][ 14]LogFbx: 		[Node Attribute Child 1] Rear Sigh (Type Mesh).
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node END [Rear Sigh]
+[2018.10.28-14.56.10:750][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node START [Body] 
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Total Deformer Count 1429548112.
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Attribute (Plane.006) Type (4).
+[2018.10.28-14.56.10:750][ 14]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node END [Body]
+[2018.10.28-14.56.10:750][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node START [Pipe] 
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Total Deformer Count 1429548112.
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Attribute (Cylinder) Type (4).
+[2018.10.28-14.56.10:750][ 14]LogFbx: 		[Node Attribute Child 1] Pipe (Type Mesh).
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node END [Pipe]
+[2018.10.28-14.56.10:750][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node START [Latch] 
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Total Deformer Count 1429548112.
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Attribute (Plane.004) Type (4).
+[2018.10.28-14.56.10:750][ 14]LogFbx: 		[Node Attribute Child 1] Latch (Type Mesh).
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node END [Latch]
+[2018.10.28-14.56.10:750][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:750][ 14]LogFbx: Dumping Node START [Screw] 
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Total Deformer Count 1429548112.
+[2018.10.28-14.56.10:750][ 14]LogFbx: 	Attribute (Circle.001) Type (4).
+[2018.10.28-14.56.10:750][ 14]LogFbx: 		[Node Attribute Child 1] Screw (Type Mesh).
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node END [Screw]
+[2018.10.28-14.56.10:751][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node START [Hammer] 
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Total Deformer Count 243609776.
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Attribute (Plane.001) Type (4).
+[2018.10.28-14.56.10:751][ 14]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node END [Hammer]
+[2018.10.28-14.56.10:751][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node START [Trigger] 
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Total Deformer Count 243609776.
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Attribute (Plane) Type (4).
+[2018.10.28-14.56.10:751][ 14]LogFbx: 		[Node Attribute Child 1] Trigger (Type Mesh).
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node END [Trigger]
+[2018.10.28-14.56.10:751][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node START [Cylinder] 
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Total Deformer Count 243609776.
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Attribute (Cylinder.006) Type (4).
+[2018.10.28-14.56.10:751][ 14]LogFbx: 		[Node Attribute Child 1] Cylinder (Type Mesh).
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node END [Cylinder]
+[2018.10.28-14.56.10:751][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node START [Crip] 
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Total Deformer Count 1429548112.
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Attribute (Plane.002) Type (4).
+[2018.10.28-14.56.10:751][ 14]LogFbx: 		[Node Attribute Child 1] Crip (Type Mesh).
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node END [Crip]
+[2018.10.28-14.56.10:751][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node START [Bullet.007] 
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Total Deformer Count 85442176.
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Attribute (Circle.008) Type (4).
+[2018.10.28-14.56.10:751][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.007 (Type Mesh).
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node END [Bullet.007]
+[2018.10.28-14.56.10:751][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node START [Bullet.006] 
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Total Deformer Count 85442176.
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Attribute (Circle.007) Type (4).
+[2018.10.28-14.56.10:751][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.006 (Type Mesh).
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node END [Bullet.006]
+[2018.10.28-14.56.10:751][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node START [Bullet.005] 
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Total Deformer Count 85442176.
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Attribute (Circle.006) Type (4).
+[2018.10.28-14.56.10:751][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.005 (Type Mesh).
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node END [Bullet.005]
+[2018.10.28-14.56.10:751][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:751][ 14]LogFbx: Dumping Node START [Bullet.004] 
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Total Deformer Count 85442176.
+[2018.10.28-14.56.10:751][ 14]LogFbx: 	Attribute (Circle.005) Type (4).
+[2018.10.28-14.56.10:752][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.004 (Type Mesh).
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node END [Bullet.004]
+[2018.10.28-14.56.10:752][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node START [Bullet.003] 
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Total Deformer Count 85442176.
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Attribute (Circle.004) Type (4).
+[2018.10.28-14.56.10:752][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.003 (Type Mesh).
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node END [Bullet.003]
+[2018.10.28-14.56.10:752][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node START [Bullet.002] 
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Total Deformer Count 85442176.
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Attribute (Circle.003) Type (4).
+[2018.10.28-14.56.10:752][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.002 (Type Mesh).
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node END [Bullet.002]
+[2018.10.28-14.56.10:752][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node START [Bullet.001] 
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Total Deformer Count 85442176.
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Attribute (Circle.002) Type (4).
+[2018.10.28-14.56.10:752][ 14]LogFbx: 		[Node Attribute Child 1] Bullet.001 (Type Mesh).
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node END [Bullet.001]
+[2018.10.28-14.56.10:752][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node START [Bullet] 
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Total Deformer Count 243610560.
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Attribute (Circle) Type (4).
+[2018.10.28-14.56.10:752][ 14]LogFbx: 		[Node Attribute Child 1] Bullet (Type Mesh).
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node END [Bullet]
+[2018.10.28-14.56.10:752][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node START [Rear Sigh] 
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Total Deformer Count 85437184.
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Attribute (Cylinder.001) Type (4).
+[2018.10.28-14.56.10:752][ 14]LogFbx: 		[Node Attribute Child 1] Rear Sigh (Type Mesh).
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node END [Rear Sigh]
+[2018.10.28-14.56.10:752][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node START [Body] 
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Total Deformer Count 1429548112.
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Attribute (Plane.006) Type (4).
+[2018.10.28-14.56.10:752][ 14]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node END [Body]
+[2018.10.28-14.56.10:752][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node START [Pipe] 
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Total Deformer Count 1429548112.
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Attribute (Cylinder) Type (4).
+[2018.10.28-14.56.10:752][ 14]LogFbx: 		[Node Attribute Child 1] Pipe (Type Mesh).
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node END [Pipe]
+[2018.10.28-14.56.10:752][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node START [Latch] 
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Total Deformer Count 1429548112.
+[2018.10.28-14.56.10:752][ 14]LogFbx: 	Attribute (Plane.004) Type (4).
+[2018.10.28-14.56.10:752][ 14]LogFbx: 		[Node Attribute Child 1] Latch (Type Mesh).
+[2018.10.28-14.56.10:752][ 14]LogFbx: Dumping Node END [Latch]
+[2018.10.28-14.56.10:753][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:753][ 14]LogFbx: Dumping Node START [Screw] 
+[2018.10.28-14.56.10:753][ 14]LogFbx: 	Total Deformer Count 1429548112.
+[2018.10.28-14.56.10:753][ 14]LogFbx: 	Attribute (Circle.001) Type (4).
+[2018.10.28-14.56.10:753][ 14]LogFbx: 		[Node Attribute Child 1] Screw (Type Mesh).
+[2018.10.28-14.56.10:753][ 14]LogFbx: Dumping Node END [Screw]
+[2018.10.28-14.56.10:753][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:753][ 14]LogFbx: Dumping Node START [Hammer] 
+[2018.10.28-14.56.10:753][ 14]LogFbx: 	Total Deformer Count 243610560.
+[2018.10.28-14.56.10:753][ 14]LogFbx: 	Attribute (Plane.001) Type (4).
+[2018.10.28-14.56.10:753][ 14]LogFbx: 		[Node Attribute Child 1] Hammer (Type Mesh).
+[2018.10.28-14.56.10:753][ 14]LogFbx: Dumping Node END [Hammer]
+[2018.10.28-14.56.10:753][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:753][ 14]LogFbx: Dumping Node START [Trigger] 
+[2018.10.28-14.56.10:753][ 14]LogFbx: 	Total Deformer Count 243610560.
+[2018.10.28-14.56.10:753][ 14]LogFbx: 	Attribute (Plane) Type (4).
+[2018.10.28-14.56.10:753][ 14]LogFbx: 		[Node Attribute Child 1] Trigger (Type Mesh).
+[2018.10.28-14.56.10:753][ 14]LogFbx: Dumping Node END [Trigger]
+[2018.10.28-14.56.10:753][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:753][ 14]LogFbx: Dumping Node START [Cylinder] 
+[2018.10.28-14.56.10:753][ 14]LogFbx: 	Total Deformer Count 243610560.
+[2018.10.28-14.56.10:753][ 14]LogFbx: 	Attribute (Cylinder.006) Type (4).
+[2018.10.28-14.56.10:753][ 14]LogFbx: 		[Node Attribute Child 1] Cylinder (Type Mesh).
+[2018.10.28-14.56.10:753][ 14]LogFbx: Dumping Node END [Cylinder]
+[2018.10.28-14.56.10:753][ 14]LogFbx: =================================================
+[2018.10.28-14.56.10:753][ 14]LogFbx: Dumping Node START [Crip] 
+[2018.10.28-14.56.10:753][ 14]LogFbx: 	Total Deformer Count 1429548112.
+[2018.10.28-14.56.10:753][ 14]LogFbx: 	Attribute (Plane.002) Type (4).
+[2018.10.28-14.56.10:753][ 14]LogFbx: 		[Node Attribute Child 1] Crip (Type Mesh).
+[2018.10.28-14.56.10:753][ 14]LogFbx: Dumping Node END [Crip]
+[2018.10.28-14.56.11:012][ 14]LogMaterial: Warning: Material /Game/Assets/Rifle/Bullet.Bullet needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-14.56.11:027][ 14]LogMaterial: Display: Missing cached shader map for material Bullet, compiling. 
+[2018.10.28-14.56.11:134][ 14]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.28-14.56.11:134][ 14]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.28-14.56.11:134][ 14]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.28-14.56.11:158][ 14]LogMaterial: Display: Missing cached shader map for material Bullet, compiling. 
+[2018.10.28-14.56.11:189][ 14]LogFbx: Triangulating skeletal mesh Bullet.007
+[2018.10.28-14.56.11:303][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.11:601][ 14]LogSkeletalMesh: Section 0: 1243 vertices, 1 active bones
+[2018.10.28-14.56.11:601][ 14]LogSkeletalMesh: Section 0: Material=0, 1536 triangles
+[2018.10.28-14.56.11:602][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_007...
+[2018.10.28-14.56.11:639][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_007
+[2018.10.28-14.56.11:640][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_007_Skeleton'
+[2018.10.28-14.56.11:640][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_007_Skeleton'
+[2018.10.28-14.56.11:647][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_007_PhysicsAsset'
+[2018.10.28-14.56.11:647][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_007_PhysicsAsset'
+[2018.10.28-14.56.11:671][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.11:690][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_007...
+[2018.10.28-14.56.11:692][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_007
+[2018.10.28-14.56.11:693][ 14]LogFbx: Triangulating skeletal mesh Bullet.006
+[2018.10.28-14.56.11:754][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.11:790][ 14]LogSkeletalMesh: Section 0: 1243 vertices, 1 active bones
+[2018.10.28-14.56.11:790][ 14]LogSkeletalMesh: Section 0: Material=0, 1536 triangles
+[2018.10.28-14.56.11:790][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_006...
+[2018.10.28-14.56.11:792][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_006
+[2018.10.28-14.56.11:793][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_006_Skeleton'
+[2018.10.28-14.56.11:793][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_006_Skeleton'
+[2018.10.28-14.56.11:796][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_006_PhysicsAsset'
+[2018.10.28-14.56.11:796][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_006_PhysicsAsset'
+[2018.10.28-14.56.11:801][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.11:809][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_006...
+[2018.10.28-14.56.11:811][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_006
+[2018.10.28-14.56.11:812][ 14]LogFbx: Triangulating skeletal mesh Bullet.005
+[2018.10.28-14.56.11:873][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.11:908][ 14]LogSkeletalMesh: Section 0: 1243 vertices, 1 active bones
+[2018.10.28-14.56.11:908][ 14]LogSkeletalMesh: Section 0: Material=0, 1536 triangles
+[2018.10.28-14.56.11:909][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_005...
+[2018.10.28-14.56.11:910][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_005
+[2018.10.28-14.56.11:911][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_005_Skeleton'
+[2018.10.28-14.56.11:911][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_005_Skeleton'
+[2018.10.28-14.56.11:913][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_005_PhysicsAsset'
+[2018.10.28-14.56.11:913][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_005_PhysicsAsset'
+[2018.10.28-14.56.11:918][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.11:926][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_005...
+[2018.10.28-14.56.11:928][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_005
+[2018.10.28-14.56.11:929][ 14]LogFbx: Triangulating skeletal mesh Bullet.004
+[2018.10.28-14.56.11:994][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.12:030][ 14]LogSkeletalMesh: Section 0: 1243 vertices, 1 active bones
+[2018.10.28-14.56.12:031][ 14]LogSkeletalMesh: Section 0: Material=0, 1536 triangles
+[2018.10.28-14.56.12:031][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_004...
+[2018.10.28-14.56.12:033][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_004
+[2018.10.28-14.56.12:034][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_004_Skeleton'
+[2018.10.28-14.56.12:034][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_004_Skeleton'
+[2018.10.28-14.56.12:037][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_004_PhysicsAsset'
+[2018.10.28-14.56.12:037][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_004_PhysicsAsset'
+[2018.10.28-14.56.12:042][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.12:052][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_004...
+[2018.10.28-14.56.12:053][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_004
+[2018.10.28-14.56.12:054][ 14]LogFbx: Triangulating skeletal mesh Bullet.003
+[2018.10.28-14.56.12:120][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.12:155][ 14]LogSkeletalMesh: Section 0: 1243 vertices, 1 active bones
+[2018.10.28-14.56.12:155][ 14]LogSkeletalMesh: Section 0: Material=0, 1536 triangles
+[2018.10.28-14.56.12:156][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_003...
+[2018.10.28-14.56.12:158][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_003
+[2018.10.28-14.56.12:159][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_003_Skeleton'
+[2018.10.28-14.56.12:159][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_003_Skeleton'
+[2018.10.28-14.56.12:161][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_003_PhysicsAsset'
+[2018.10.28-14.56.12:162][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_003_PhysicsAsset'
+[2018.10.28-14.56.12:167][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.12:176][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_003...
+[2018.10.28-14.56.12:178][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_003
+[2018.10.28-14.56.12:181][ 14]LogFbx: Triangulating skeletal mesh Bullet.002
+[2018.10.28-14.56.12:249][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.12:286][ 14]LogSkeletalMesh: Section 0: 1243 vertices, 1 active bones
+[2018.10.28-14.56.12:286][ 14]LogSkeletalMesh: Section 0: Material=0, 1536 triangles
+[2018.10.28-14.56.12:286][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_002...
+[2018.10.28-14.56.12:288][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_002
+[2018.10.28-14.56.12:289][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_002_Skeleton'
+[2018.10.28-14.56.12:289][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_002_Skeleton'
+[2018.10.28-14.56.12:292][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_002_PhysicsAsset'
+[2018.10.28-14.56.12:292][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_002_PhysicsAsset'
+[2018.10.28-14.56.12:296][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.12:305][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_002...
+[2018.10.28-14.56.12:307][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_002
+[2018.10.28-14.56.12:311][ 14]LogMaterial: Warning: Material /Game/Assets/Rifle/Bullet_2.Bullet_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-14.56.12:313][ 14]LogMaterial: Display: Missing cached shader map for material Bullet_2, compiling. 
+[2018.10.28-14.56.12:347][ 14]LogMaterial: Display: Missing cached shader map for material Bullet_2, compiling. 
+[2018.10.28-14.56.12:380][ 14]LogFbx: Triangulating skeletal mesh Bullet.001
+[2018.10.28-14.56.12:450][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.12:487][ 14]LogSkeletalMesh: Section 0: 1243 vertices, 1 active bones
+[2018.10.28-14.56.12:487][ 14]LogSkeletalMesh: Section 0: Material=0, 1536 triangles
+[2018.10.28-14.56.12:487][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_001...
+[2018.10.28-14.56.12:489][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_001
+[2018.10.28-14.56.12:490][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_001_Skeleton'
+[2018.10.28-14.56.12:491][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_001_Skeleton'
+[2018.10.28-14.56.12:493][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_001_PhysicsAsset'
+[2018.10.28-14.56.12:493][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_001_PhysicsAsset'
+[2018.10.28-14.56.12:498][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.12:506][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_001...
+[2018.10.28-14.56.12:508][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet_001
+[2018.10.28-14.56.12:509][ 14]LogFbx: Triangulating skeletal mesh Bullet
+[2018.10.28-14.56.12:574][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.12:609][ 14]LogSkeletalMesh: Section 0: 1243 vertices, 1 active bones
+[2018.10.28-14.56.12:610][ 14]LogSkeletalMesh: Section 0: Material=0, 1536 triangles
+[2018.10.28-14.56.12:611][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet...
+[2018.10.28-14.56.12:613][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet
+[2018.10.28-14.56.12:614][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_Skeleton'
+[2018.10.28-14.56.12:615][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_Skeleton'
+[2018.10.28-14.56.12:617][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_PhysicsAsset'
+[2018.10.28-14.56.12:617][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Bullet_PhysicsAsset'
+[2018.10.28-14.56.12:623][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.12:633][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet...
+[2018.10.28-14.56.12:634][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Bullet
+[2018.10.28-14.56.12:637][ 14]LogMaterial: Warning: Material /Game/Assets/Rifle/Rear_Sigh.Rear_Sigh needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-14.56.12:640][ 14]LogMaterial: Display: Missing cached shader map for material Rear_Sigh, compiling. 
+[2018.10.28-14.56.12:675][ 14]LogMaterial: Display: Missing cached shader map for material Rear_Sigh, compiling. 
+[2018.10.28-14.56.12:710][ 14]LogFbx: Triangulating skeletal mesh Rear Sigh
+[2018.10.28-14.56.12:770][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.12:798][ 14]LogSkeletalMesh: Section 0: 1017 vertices, 1 active bones
+[2018.10.28-14.56.12:799][ 14]LogSkeletalMesh: Section 0: Material=0, 1328 triangles
+[2018.10.28-14.56.12:799][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Rear Sigh...
+[2018.10.28-14.56.12:801][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Rear Sigh
+[2018.10.28-14.56.12:802][ 14]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.12:802][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton'
+[2018.10.28-14.56.12:802][ 14]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.12:802][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton'
+[2018.10.28-14.56.12:811][ 14]LogLinker: Error: AddRedirectList(AddKnownMissing) failed to add redirector from /Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton to /Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton with invalid characters!
+[2018.10.28-14.56.12:811][ 14]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.12:812][ 14]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.12:812][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset'
+[2018.10.28-14.56.12:812][ 14]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.12:812][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset'
+[2018.10.28-14.56.12:812][ 14]LogLinker: Error: AddRedirectList(AddKnownMissing) failed to add redirector from /Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset to /Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset with invalid characters!
+[2018.10.28-14.56.12:812][ 14]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.12:815][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.12:824][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Rear Sigh...
+[2018.10.28-14.56.12:826][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Rear Sigh
+[2018.10.28-14.56.12:830][ 14]LogMaterial: Warning: Material /Game/Assets/Rifle/Body.Body needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-14.56.12:832][ 14]LogMaterial: Display: Missing cached shader map for material Body, compiling. 
+[2018.10.28-14.56.12:869][ 14]LogMaterial: Display: Missing cached shader map for material Body, compiling. 
+[2018.10.28-14.56.12:902][ 14]LogFbx: Triangulating skeletal mesh Body
+[2018.10.28-14.56.13:333][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.13:550][ 14]LogSkeletalMesh: Section 0: 6294 vertices, 1 active bones
+[2018.10.28-14.56.13:551][ 14]LogSkeletalMesh: Section 0: Material=0, 9613 triangles
+[2018.10.28-14.56.13:552][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Body...
+[2018.10.28-14.56.13:565][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Assets/Rifle/Revolver.Revolver_Body
+[2018.10.28-14.56.13:568][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Body_Skeleton'
+[2018.10.28-14.56.13:568][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Body_Skeleton'
+[2018.10.28-14.56.13:570][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Body_PhysicsAsset'
+[2018.10.28-14.56.13:570][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Body_PhysicsAsset'
+[2018.10.28-14.56.13:575][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.13:585][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Body...
+[2018.10.28-14.56.13:598][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Assets/Rifle/Revolver.Revolver_Body
+[2018.10.28-14.56.13:602][ 14]LogMaterial: Warning: Material /Game/Assets/Rifle/Pipe.Pipe needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-14.56.13:604][ 14]LogMaterial: Display: Missing cached shader map for material Pipe, compiling. 
+[2018.10.28-14.56.13:641][ 14]LogMaterial: Display: Missing cached shader map for material Pipe, compiling. 
+[2018.10.28-14.56.13:676][ 14]LogFbx: Triangulating skeletal mesh Pipe
+[2018.10.28-14.56.13:860][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.13:944][ 14]LogSkeletalMesh: Section 0: 2371 vertices, 1 active bones
+[2018.10.28-14.56.13:945][ 14]LogSkeletalMesh: Section 0: Material=0, 4084 triangles
+[2018.10.28-14.56.13:945][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Pipe...
+[2018.10.28-14.56.13:950][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Pipe
+[2018.10.28-14.56.13:951][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Pipe_Skeleton'
+[2018.10.28-14.56.13:952][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Pipe_Skeleton'
+[2018.10.28-14.56.13:954][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Pipe_PhysicsAsset'
+[2018.10.28-14.56.13:954][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Pipe_PhysicsAsset'
+[2018.10.28-14.56.13:959][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_24:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.13:969][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Pipe...
+[2018.10.28-14.56.13:974][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Assets/Rifle/Revolver.Revolver_Pipe
+[2018.10.28-14.56.13:978][ 14]LogMaterial: Warning: Material /Game/Assets/Rifle/Latch.Latch needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-14.56.13:980][ 14]LogMaterial: Display: Missing cached shader map for material Latch, compiling. 
+[2018.10.28-14.56.14:018][ 14]LogMaterial: Display: Missing cached shader map for material Latch, compiling. 
+[2018.10.28-14.56.14:054][ 14]LogFbx: Triangulating skeletal mesh Latch
+[2018.10.28-14.56.14:481][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.14:772][ 14]LogSkeletalMesh: Section 0: 9297 vertices, 1 active bones
+[2018.10.28-14.56.14:774][ 14]LogSkeletalMesh: Section 0: Material=0, 9444 triangles
+[2018.10.28-14.56.14:775][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Latch...
+[2018.10.28-14.56.14:791][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Assets/Rifle/Revolver.Revolver_Latch
+[2018.10.28-14.56.14:795][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Latch_Skeleton'
+[2018.10.28-14.56.14:795][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Latch_Skeleton'
+[2018.10.28-14.56.14:798][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Latch_PhysicsAsset'
+[2018.10.28-14.56.14:799][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Latch_PhysicsAsset'
+[2018.10.28-14.56.14:803][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_26:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.14:814][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Latch...
+[2018.10.28-14.56.14:832][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Assets/Rifle/Revolver.Revolver_Latch
+[2018.10.28-14.56.14:838][ 14]LogMaterial: Warning: Material /Game/Assets/Rifle/Screw.Screw needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-14.56.14:841][ 14]LogMaterial: Display: Missing cached shader map for material Screw, compiling. 
+[2018.10.28-14.56.14:879][ 14]LogMaterial: Display: Missing cached shader map for material Screw, compiling. 
+[2018.10.28-14.56.14:914][ 14]LogFbx: Triangulating skeletal mesh Screw
+[2018.10.28-14.56.14:989][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.15:024][ 14]LogSkeletalMesh: Section 0: 1407 vertices, 1 active bones
+[2018.10.28-14.56.15:025][ 14]LogSkeletalMesh: Section 0: Material=0, 1716 triangles
+[2018.10.28-14.56.15:025][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Screw...
+[2018.10.28-14.56.15:028][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Screw
+[2018.10.28-14.56.15:029][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Screw_Skeleton'
+[2018.10.28-14.56.15:029][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Screw_Skeleton'
+[2018.10.28-14.56.15:031][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Screw_PhysicsAsset'
+[2018.10.28-14.56.15:031][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Screw_PhysicsAsset'
+[2018.10.28-14.56.15:040][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Screw...
+[2018.10.28-14.56.15:042][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Screw
+[2018.10.28-14.56.15:046][ 14]LogMaterial: Warning: Material /Game/Assets/Rifle/Hammer.Hammer needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-14.56.15:048][ 14]LogMaterial: Display: Missing cached shader map for material Hammer, compiling. 
+[2018.10.28-14.56.15:084][ 14]LogMaterial: Display: Missing cached shader map for material Hammer, compiling. 
+[2018.10.28-14.56.15:117][ 14]LogFbx: Triangulating skeletal mesh Hammer
+[2018.10.28-14.56.15:160][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.15:177][ 14]LogSkeletalMesh: Section 0: 606 vertices, 1 active bones
+[2018.10.28-14.56.15:177][ 14]LogSkeletalMesh: Section 0: Material=0, 880 triangles
+[2018.10.28-14.56.15:178][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Hammer...
+[2018.10.28-14.56.15:179][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Hammer
+[2018.10.28-14.56.15:180][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Hammer_Skeleton'
+[2018.10.28-14.56.15:180][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Hammer_Skeleton'
+[2018.10.28-14.56.15:182][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Hammer_PhysicsAsset'
+[2018.10.28-14.56.15:183][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Hammer_PhysicsAsset'
+[2018.10.28-14.56.15:188][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.15:197][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Hammer...
+[2018.10.28-14.56.15:198][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Hammer
+[2018.10.28-14.56.15:201][ 14]LogMaterial: Warning: Material /Game/Assets/Rifle/Trigger.Trigger needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-14.56.15:203][ 14]LogMaterial: Display: Missing cached shader map for material Trigger, compiling. 
+[2018.10.28-14.56.15:238][ 14]LogMaterial: Display: Missing cached shader map for material Trigger, compiling. 
+[2018.10.28-14.56.15:269][ 14]LogShaderCompilers: Display: Shaders left to compile 480
+[2018.10.28-14.56.15:272][ 14]LogFbx: Triangulating skeletal mesh Trigger
+[2018.10.28-14.56.15:309][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.15:326][ 14]LogSkeletalMesh: Section 0: 539 vertices, 1 active bones
+[2018.10.28-14.56.15:326][ 14]LogSkeletalMesh: Section 0: Material=0, 752 triangles
+[2018.10.28-14.56.15:327][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Trigger...
+[2018.10.28-14.56.15:328][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Trigger
+[2018.10.28-14.56.15:329][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Trigger_Skeleton'
+[2018.10.28-14.56.15:329][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Trigger_Skeleton'
+[2018.10.28-14.56.15:331][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Trigger_PhysicsAsset'
+[2018.10.28-14.56.15:331][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Trigger_PhysicsAsset'
+[2018.10.28-14.56.15:336][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.15:346][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Trigger...
+[2018.10.28-14.56.15:347][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Trigger
+[2018.10.28-14.56.15:352][ 14]LogMaterial: Warning: Material /Game/Assets/Rifle/Cylinder.Cylinder needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-14.56.15:354][ 14]LogMaterial: Display: Missing cached shader map for material Cylinder, compiling. 
+[2018.10.28-14.56.15:390][ 14]LogMaterial: Display: Missing cached shader map for material Cylinder, compiling. 
+[2018.10.28-14.56.15:426][ 14]LogFbx: Triangulating skeletal mesh Cylinder
+[2018.10.28-14.56.17:052][ 14]LogShaderCompilers: Display: Shaders left to compile 590
+[2018.10.28-14.56.17:052][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.17:872][ 14]LogSkeletalMesh: Section 0: 18925 vertices, 1 active bones
+[2018.10.28-14.56.17:876][ 14]LogSkeletalMesh: Section 0: Material=0, 34504 triangles
+[2018.10.28-14.56.17:877][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Cylinder...
+[2018.10.28-14.56.17:947][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Assets/Rifle/Revolver.Revolver_Cylinder
+[2018.10.28-14.56.17:957][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Cylinder_Skeleton'
+[2018.10.28-14.56.17:957][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Cylinder_Skeleton'
+[2018.10.28-14.56.17:960][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Cylinder_PhysicsAsset'
+[2018.10.28-14.56.17:960][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Cylinder_PhysicsAsset'
+[2018.10.28-14.56.17:966][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_33:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.17:978][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Cylinder...
+[2018.10.28-14.56.18:045][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Assets/Rifle/Revolver.Revolver_Cylinder
+[2018.10.28-14.56.18:062][ 14]LogMaterial: Warning: Material /Game/Assets/Rifle/Crip.Crip needed to have new flag set bUsedWithSkeletalMesh !
+[2018.10.28-14.56.18:064][ 14]LogMaterial: Display: Missing cached shader map for material Crip, compiling. 
+[2018.10.28-14.56.18:101][ 14]LogMaterial: Display: Missing cached shader map for material Crip, compiling. 
+[2018.10.28-14.56.18:135][ 14]LogFbx: Triangulating skeletal mesh Crip
+[2018.10.28-14.56.24:982][ 14]LogShaderCompilers: Display: Shaders left to compile 640
+[2018.10.28-14.56.24:983][ 14]LogShaderCompilers: Display: Shaders left to compile 630
+[2018.10.28-14.56.24:983][ 14]LogShaderCompilers: Display: Shaders left to compile 620
+[2018.10.28-14.56.24:983][ 14]LogShaderCompilers: Display: Shaders left to compile 610
+[2018.10.28-14.56.24:983][ 14]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2018.10.28-14.56.28:076][ 14]LogShaderCompilers: Display: Shaders left to compile 600
+[2018.10.28-14.56.28:076][ 14]LogShaderCompilers: Display: Shaders left to compile 590
+[2018.10.28-14.56.33:986][ 14]LogShaderCompilers: Display: Shaders left to compile 580
+[2018.10.28-14.56.33:986][ 14]LogShaderCompilers: Display: Shaders left to compile 570
+[2018.10.28-14.56.34:018][ 14]LogSkeletalMesh: Section 0: 114155 vertices, 1 active bones
+[2018.10.28-14.56.34:046][ 14]LogSkeletalMesh: Section 0: Material=0, 155018 triangles
+[2018.10.28-14.56.34:049][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Crip...
+[2018.10.28-14.56.34:431][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.38s] /Game/Assets/Rifle/Revolver.Revolver_Crip
+[2018.10.28-14.56.34:482][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Crip_Skeleton'
+[2018.10.28-14.56.34:482][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Crip_Skeleton'
+[2018.10.28-14.56.34:485][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Crip_PhysicsAsset'
+[2018.10.28-14.56.34:485][ 14]LogLinker: Can't find file '/Game/Assets/Rifle/Revolver_Crip_PhysicsAsset'
+[2018.10.28-14.56.34:502][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_35:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2018.10.28-14.56.34:529][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Crip...
+[2018.10.28-14.56.34:893][ 14]LogShaderCompilers: Display: Shaders left to compile 560
+[2018.10.28-14.56.34:894][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.36s] /Game/Assets/Rifle/Revolver.Revolver_Crip
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:933][ 14]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.10.28-14.56.34:941][ 14]LogSkeletalMesh: Building Skeletal Mesh Revolver_Crip...
+[2018.10.28-14.56.35:309][ 14]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/Assets/Rifle/Revolver.Revolver_Crip
+[2018.10.28-14.56.35:360][ 14]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.35:360][ 14]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.35:460][ 14]LogShaderCompilers: Display: Shaders left to compile 550
+[2018.10.28-14.56.35:460][ 14]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.35:461][ 14]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.35:461][ 14]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.35:915][ 18]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.56.38:324][164]LogShaderCompilers: Display: Shaders left to compile 540
+[2018.10.28-14.56.40:964][317]LogSlate: Window 'Message Log' being destroyed
+[2018.10.28-14.56.41:145][326]LogShaderCompilers: Display: Shaders left to compile 530
+[2018.10.28-14.56.43:108][383]LogShaderCompilers: Display: Shaders left to compile 520
+[2018.10.28-14.56.43:198][385]LogShaderCompilers: Display: Shaders left to compile 510
+[2018.10.28-14.56.47:320][500]LogShaderCompilers: Display: Shaders left to compile 500
+[2018.10.28-14.56.47:479][504]LogShaderCompilers: Display: Shaders left to compile 490
+[2018.10.28-14.56.49:001][547]LogShaderCompilers: Display: Shaders left to compile 480
+[2018.10.28-14.56.51:311][612]LogShaderCompilers: Display: Shaders left to compile 470
+[2018.10.28-14.56.52:429][643]LogShaderCompilers: Display: Shaders left to compile 460
+[2018.10.28-14.56.52:894][656]LogShaderCompilers: Display: Shaders left to compile 450
+[2018.10.28-14.56.56:753][764]LogShaderCompilers: Display: Shaders left to compile 440
+[2018.10.28-14.56.57:358][781]LogShaderCompilers: Display: Shaders left to compile 430
+[2018.10.28-14.56.58:620][800]LogShaderCompilers: Display: Shaders left to compile 420
+[2018.10.28-14.57.00:183][812]LogShaderCompilers: Display: Shaders left to compile 410
+[2018.10.28-14.57.01:222][820]LogShaderCompilers: Display: Shaders left to compile 400
+[2018.10.28-14.57.01:607][822]LogShaderCompilers: Display: Shaders left to compile 390
+[2018.10.28-14.57.06:165][115]LogShaderCompilers: Display: Shaders left to compile 380
+[2018.10.28-14.57.06:335][125]LogShaderCompilers: Display: Shaders left to compile 370
+[2018.10.28-14.57.08:459][252]LogShaderCompilers: Display: Shaders left to compile 360
+[2018.10.28-14.57.09:164][289]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.57.09:165][289]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.57.09:165][289]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.57.09:182][290]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.57.10:730][320]LogShaderCompilers: Display: Shaders left to compile 350
+[2018.10.28-14.57.12:117][352]LogShaderCompilers: Display: Shaders left to compile 340
+[2018.10.28-14.57.12:403][360]LogShaderCompilers: Display: Shaders left to compile 330
+[2018.10.28-14.57.16:890][571]LogShaderCompilers: Display: Shaders left to compile 320
+[2018.10.28-14.57.17:335][594]LogShaderCompilers: Display: Shaders left to compile 310
+[2018.10.28-14.57.18:586][624]LogShaderCompilers: Display: Shaders left to compile 300
+[2018.10.28-14.57.20:356][662]LogShaderCompilers: Display: Shaders left to compile 290
+[2018.10.28-14.57.21:360][684]LogShaderCompilers: Display: Shaders left to compile 280
+[2018.10.28-14.57.21:850][695]LogShaderCompilers: Display: Shaders left to compile 270
+[2018.10.28-14.57.24:742][758]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.57.24:982][759]LogShaderCompilers: Display: Shaders left to compile 260
+[2018.10.28-14.57.25:220][759]LogShaderCompilers: Display: Shaders left to compile 250
+[2018.10.28-14.57.26:454][760]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.28-14.57.26:463][760]LogShaderCompilers: Display: Shaders left to compile 240
+[2018.10.28-14.57.27:761][761]LogShaderCompilers: Display: Shaders left to compile 230
+[2018.10.28-14.57.28:938][764]LogShaderCompilers: Display: Shaders left to compile 220
+[2018.10.28-14.57.29:044][765]LogShaderCompilers: Display: Shaders left to compile 210
+[2018.10.28-14.57.32:682][824]LogShaderCompilers: Display: Shaders left to compile 200
+[2018.10.28-14.57.32:692][825]LogShaderCompilers: Display: Shaders left to compile 190
+[2018.10.28-14.57.34:405][926]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.10.28-14.57.35:445][  1]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.57.35:445][  1]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.57.35:506][  1]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.57.35:506][  1]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.57.37:171][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Body" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Body.uasset" SILENT=true
+[2018.10.28-14.57.37:207][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Body0DA2F2624ED3A2053819E291F2D4BDA4.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Body.uasset'
+[2018.10.28-14.57.37:236][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Bullet" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Bullet.uasset" SILENT=true
+[2018.10.28-14.57.37:254][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Bullet3E592B1441E1A7A44C602FBFF31E8F6C.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Bullet.uasset'
+[2018.10.28-14.57.37:282][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Bullet_2" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Bullet_2.uasset" SILENT=true
+[2018.10.28-14.57.37:302][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Bullet_22D0521334344D389B0FDAD9F709CEE07.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Bullet_2.uasset'
+[2018.10.28-14.57.56:705][  1]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.28-14.57.56:706][  1]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.28-14.57.56:748][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Crip" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Crip.uasset" SILENT=true
+[2018.10.28-14.57.56:767][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/CripCBDBAD594A1C5BF8AC9F5BAAED8F1E63.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Crip.uasset'
+[2018.10.28-14.57.56:797][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Cylinder" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Cylinder.uasset" SILENT=true
+[2018.10.28-14.57.56:824][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Cylinder343D5B314164420EE3681D91318E4468.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Cylinder.uasset'
+[2018.10.28-14.57.56:853][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/gun" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/gun.uasset" SILENT=true
+[2018.10.28-14.57.56:872][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/gunE17646734F8158A814512DBEBEA1778E.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/gun.uasset'
+[2018.10.28-14.57.56:901][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Hammer" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Hammer.uasset" SILENT=true
+[2018.10.28-14.57.56:969][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/HammerEF313D3C4983A89F5F03EF8055CCBCD3.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Hammer.uasset'
+[2018.10.28-14.57.56:999][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Latch" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Latch.uasset" SILENT=true
+[2018.10.28-14.57.57:015][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/LatchCC67DB534F868C7594D1E9BD6EBAA31F.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Latch.uasset'
+[2018.10.28-14.57.57:025][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/M1Rifle" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/M1Rifle.uasset" SILENT=true
+[2018.10.28-14.57.57:062][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/M1RifleD0540B044B8A487D639B2DB398DDE7F6.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/M1Rifle.uasset'
+[2018.10.28-14.57.57:087][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Pipe" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Pipe.uasset" SILENT=true
+[2018.10.28-14.57.57:103][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Pipe21790F1449DDC8509C2E979B4C9AAC29.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Pipe.uasset'
+[2018.10.28-14.57.57:130][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Rear_Sigh" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Rear_Sigh.uasset" SILENT=true
+[2018.10.28-14.57.57:146][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Rear_Sigh5D78FFA8433EC712144E75826F1DB5E5.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Rear_Sigh.uasset'
+[2018.10.28-14.57.57:171][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Body" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Body.uasset" SILENT=true
+[2018.10.28-14.57.57:200][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_BodyA1AF4AE04D120A4DD02C0498CA268D8C.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Body.uasset'
+[2018.10.28-14.57.57:225][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Body_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Body_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.57:241][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Body_PhysicsAssetE12D47B24577E88C7DE260B9930792AF.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Body_PhysicsAsset.uasset'
+[2018.10.28-14.57.57:246][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Body_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Body_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.57:253][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Body_Skeleton2FAA2F8849E63F00FD24989CDF181809.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Body_Skeleton.uasset'
+[2018.10.28-14.57.57:277][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet.uasset" SILENT=true
+[2018.10.28-14.57.57:295][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet45EF2B1F49C2C7327E5023BA80400847.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet.uasset'
+[2018.10.28-14.57.57:319][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_001" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_001.uasset" SILENT=true
+[2018.10.28-14.57.57:338][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_001CC5BC4DA4F259B922790C0B2417E7838.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_001.uasset'
+[2018.10.28-14.57.57:366][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_001_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_001_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.57:381][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_001_PhysicsAsset0B02047343AAE904239D9F99A7E25F08.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_001_PhysicsAsset.uasset'
+[2018.10.28-14.57.57:387][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_001_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_001_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.57:394][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_001_SkeletonFADFD2BD40ADF2439DD28FB3220885B3.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_001_Skeleton.uasset'
+[2018.10.28-14.57.57:419][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_002" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_002.uasset" SILENT=true
+[2018.10.28-14.57.57:438][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_0022820F0D24B15959CAEB69A9E7A5C80DF.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_002.uasset'
+[2018.10.28-14.57.57:464][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_002_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_002_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.57:479][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_002_PhysicsAssetE8CF870B40A6C19E323D09910889C483.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_002_PhysicsAsset.uasset'
+[2018.10.28-14.57.57:485][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_002_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_002_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.57:492][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_002_Skeleton81A4D6544FC50EAE2A7DC8AAC81A4958.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_002_Skeleton.uasset'
+[2018.10.28-14.57.57:516][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_003" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_003.uasset" SILENT=true
+[2018.10.28-14.57.57:534][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_0030BE32C294F7CCB710F44CD95E11B8CC4.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_003.uasset'
+[2018.10.28-14.57.57:560][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_003_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_003_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.57:575][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_003_PhysicsAssetBA2752544C138BCB41F097A397B1A4BD.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_003_PhysicsAsset.uasset'
+[2018.10.28-14.57.57:581][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_003_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_003_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.57:588][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_003_SkeletonC334157D448872FC654759BBB9F686B9.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_003_Skeleton.uasset'
+[2018.10.28-14.57.57:611][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_004" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_004.uasset" SILENT=true
+[2018.10.28-14.57.57:630][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_004665A676D4723476F30FA51BB082F857C.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_004.uasset'
+[2018.10.28-14.57.57:657][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_004_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_004_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.57:672][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_004_PhysicsAssetF3683A79403FC79286E6FA9C6795301E.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_004_PhysicsAsset.uasset'
+[2018.10.28-14.57.57:678][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_004_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_004_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.57:685][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_004_Skeleton0F1E2D27474849E25FE318980C49666D.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_004_Skeleton.uasset'
+[2018.10.28-14.57.57:710][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_005" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_005.uasset" SILENT=true
+[2018.10.28-14.57.57:729][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_005E276154B40056BDC3FAD37B035AAE48E.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_005.uasset'
+[2018.10.28-14.57.57:757][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_005_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_005_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.57:773][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_005_PhysicsAsset3FC6ED8A43C2D8ED2BD9468C9E320284.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_005_PhysicsAsset.uasset'
+[2018.10.28-14.57.57:780][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_005_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_005_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.57:788][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_005_SkeletonFA86730C4526C91199BC98B10AB12FF7.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_005_Skeleton.uasset'
+[2018.10.28-14.57.57:812][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_006" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_006.uasset" SILENT=true
+[2018.10.28-14.57.57:830][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_006DB821BCD43331B28CFC627AD8837AC19.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_006.uasset'
+[2018.10.28-14.57.57:858][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_006_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_006_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.57:873][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_006_PhysicsAsset78D0A25949FDC6E6DEED87979B8BAF8A.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_006_PhysicsAsset.uasset'
+[2018.10.28-14.57.57:878][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_006_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_006_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.57:885][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_006_Skeleton2F6188FF445B0D45A55CDBA411CFD302.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_006_Skeleton.uasset'
+[2018.10.28-14.57.57:912][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_007" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_007.uasset" SILENT=true
+[2018.10.28-14.57.57:930][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_0079C6441874E6E1A8EF7AB79BED3F50450.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_007.uasset'
+[2018.10.28-14.57.57:959][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_007_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_007_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.57:974][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_007_PhysicsAssetBFAF31C742EF9DDA4D86D5A4A17CE691.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_007_PhysicsAsset.uasset'
+[2018.10.28-14.57.57:982][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_007_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_007_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.58:046][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_007_Skeleton683E301F4FB39929294608AEA53C7D30.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_007_Skeleton.uasset'
+[2018.10.28-14.57.58:070][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.58:086][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_PhysicsAsset243A460249E21A5E1A577CAA4FA1DCA2.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_PhysicsAsset.uasset'
+[2018.10.28-14.57.58:093][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Bullet_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.58:101][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Bullet_Skeleton9DAECE8B4574C055A0C541BB3C74F00C.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Bullet_Skeleton.uasset'
+[2018.10.28-14.57.58:126][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Crip" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Crip.uasset" SILENT=true
+[2018.10.28-14.57.58:362][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_CripD59693474B070D4B9957B39456D56586.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Crip.uasset'
+[2018.10.28-14.57.58:388][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Crip_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Crip_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.58:405][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Crip_PhysicsAssetA0AFDAF34A0C18494FCB74A362A7E2D6.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Crip_PhysicsAsset.uasset'
+[2018.10.28-14.57.58:410][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Crip_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Crip_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.58:417][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Crip_SkeletonA0BC6F5C4BD03E1D273A7A80559C93B3.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Crip_Skeleton.uasset'
+[2018.10.28-14.57.58:443][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Cylinder" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Cylinder.uasset" SILENT=true
+[2018.10.28-14.57.58:495][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Cylinder1B2D261845FE3D413CDFFE8F74C1ACD4.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Cylinder.uasset'
+[2018.10.28-14.57.58:521][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Cylinder_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Cylinder_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.58:537][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Cylinder_PhysicsAsset57F280B244709A50EB4C6BB00B19473D.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Cylinder_PhysicsAsset.uasset'
+[2018.10.28-14.57.58:542][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Cylinder_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Cylinder_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.58:549][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Cylinder_SkeletonAFE07D9B4065C50402418F99B6D345FE.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Cylinder_Skeleton.uasset'
+[2018.10.28-14.57.58:574][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Hammer" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Hammer.uasset" SILENT=true
+[2018.10.28-14.57.58:591][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_HammerC5F066744D3839EEA85FB5AC5C7EEA96.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Hammer.uasset'
+[2018.10.28-14.57.58:619][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Hammer_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Hammer_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.58:635][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Hammer_PhysicsAsset9F2D68694EA4B22F5C1F6CBB1563CEC3.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Hammer_PhysicsAsset.uasset'
+[2018.10.28-14.57.58:641][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Hammer_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Hammer_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.58:648][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Hammer_SkeletonABA272494DE6C2E5821C698331B0C131.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Hammer_Skeleton.uasset'
+[2018.10.28-14.57.58:673][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Latch" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Latch.uasset" SILENT=true
+[2018.10.28-14.57.58:760][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_LatchB05B280D48DEF770EA70F9B6C4D48838.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Latch.uasset'
+[2018.10.28-14.57.58:785][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Latch_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Latch_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.58:801][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Latch_PhysicsAssetBFD636D54550A7FDEDCF47B7EAC32719.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Latch_PhysicsAsset.uasset'
+[2018.10.28-14.57.58:808][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Latch_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Latch_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.58:815][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Latch_Skeleton7FF67CC241B1A0D9E118FF955CF803C2.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Latch_Skeleton.uasset'
+[2018.10.28-14.57.58:841][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Pipe" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Pipe.uasset" SILENT=true
+[2018.10.28-14.57.58:861][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Pipe4C3EFBCA441EBB0DD9CCCB817DB17EB1.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Pipe.uasset'
+[2018.10.28-14.57.58:886][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Pipe_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Pipe_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.58:902][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Pipe_PhysicsAsset1A7C2086452BCBC0C9D9CBAD91FBC5A9.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Pipe_PhysicsAsset.uasset'
+[2018.10.28-14.57.58:910][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Pipe_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Pipe_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.58:917][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Pipe_Skeleton360B753242EC0A65726647BD2D841C3F.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Pipe_Skeleton.uasset'
+[2018.10.28-14.57.58:942][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Screw" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Screw.uasset" SILENT=true
+[2018.10.28-14.57.58:962][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_ScrewFE0D2AC84F48AED50AF523A828B6AD3F.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Screw.uasset'
+[2018.10.28-14.57.58:987][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Screw_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Screw_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.59:004][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Screw_PhysicsAssetE77DF3A9468F980E1C1A78BAB5EF1CF8.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Screw_PhysicsAsset.uasset'
+[2018.10.28-14.57.59:010][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Screw_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Screw_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.59:017][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Screw_Skeleton836867C4487A548ECFFFBBB3B4838838.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Screw_Skeleton.uasset'
+[2018.10.28-14.57.59:046][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Trigger" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Trigger.uasset" SILENT=true
+[2018.10.28-14.57.59:064][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Trigger6AA9F9044AE412619F6DD48DE06426A6.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Trigger.uasset'
+[2018.10.28-14.57.59:091][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Trigger_PhysicsAsset" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Trigger_PhysicsAsset.uasset" SILENT=true
+[2018.10.28-14.57.59:108][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Trigger_PhysicsAsset527DF55743C3CDF551BD62BD530E0C95.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Trigger_PhysicsAsset.uasset'
+[2018.10.28-14.57.59:113][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Revolver_Trigger_Skeleton" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Trigger_Skeleton.uasset" SILENT=true
+[2018.10.28-14.57.59:120][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Revolver_Trigger_SkeletonD3858961427DB84EC8691B8326C8D925.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Revolver_Trigger_Skeleton.uasset'
+[2018.10.28-14.57.59:146][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/RifleObj" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/RifleObj.uasset" SILENT=true
+[2018.10.28-14.57.59:165][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/RifleObj983B6A394F8C5A61981B3F84330BE57C.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/RifleObj.uasset'
+[2018.10.28-14.57.59:192][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Screw" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Screw.uasset" SILENT=true
+[2018.10.28-14.57.59:208][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Screw8C723E824F8A43C71402209BE50A506F.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Screw.uasset'
+[2018.10.28-14.57.59:236][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/SK_FPGun" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/SK_FPGun.uasset" SILENT=true
+[2018.10.28-14.57.59:267][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/SK_FPGun6A0982FD4B1273FB881FC2A9E2F5A40E.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/SK_FPGun.uasset'
+[2018.10.28-14.57.59:294][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Test" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Test.uasset" SILENT=true
+[2018.10.28-14.57.59:313][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Test82002A934FFC5EDF685CFB8A747A40A5.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Test.uasset'
+[2018.10.28-14.57.59:343][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Trigger" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Trigger.uasset" SILENT=true
+[2018.10.28-14.57.59:360][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Trigger98B584D648089D35A3044B9D45D81114.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Gun/Trigger.uasset'
+[2018.10.28-14.58.04:504][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BaseInteractable" FILE="D:/Developpement/Unreal/FeteForaine/Content/Interactables/BaseInteractable.uasset" SILENT=true
+[2018.10.28-14.58.04:547][  1]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/BaseInteractable5D382CA04D0AE2C55838F38274A95EC0.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Interactables/BaseInteractable.uasset'
+[2018.10.28-14.58.04:635][  1]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.04:636][  1]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.04:637][  1]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.08:018][174]LogSlate: Window 'Failed Renames' being destroyed
+[2018.10.28-14.58.09:005][214]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:005][214]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:010][214]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:010][214]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:013][214]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:013][214]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:032][215]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:032][215]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:036][215]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:036][215]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:060][216]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:060][216]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:063][216]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:063][216]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:087][217]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:087][217]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:090][217]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:091][217]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:111][218]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:111][218]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:114][218]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:115][218]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:138][219]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:139][219]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:142][219]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:142][219]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:163][220]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:163][220]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:167][220]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:167][220]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:188][221]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:188][221]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:191][221]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:191][221]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:212][222]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:212][222]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:216][222]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:216][222]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:239][223]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:239][223]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:243][223]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:243][223]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:266][224]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:266][224]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:270][224]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:270][224]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:291][225]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:291][225]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:295][225]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:295][225]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:745][242]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:745][242]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:751][242]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:752][242]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:755][242]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:755][242]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:802][243]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:802][243]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:805][243]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:805][243]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:850][244]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:851][244]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:854][244]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:854][244]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:887][245]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:887][245]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:891][245]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:891][245]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:937][246]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:937][246]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:941][246]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:941][246]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:986][247]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:986][247]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:990][247]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.09:990][247]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:032][248]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:032][248]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:038][248]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:038][248]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:042][248]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:042][248]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:048][249]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:048][249]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:051][249]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:051][249]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:700][261]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:700][261]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:705][261]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:705][261]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:709][261]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.10:709][261]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.11:646][281]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.11:646][281]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.12:931][281]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.28-14.58.12:973][281]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.12:973][281]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.16:512][281]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.16:574][281]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.16:580][281]LogSkeletalMesh: Building Skeletal Mesh Revolver_Rear Sigh...
+[2018.10.28-14.58.16:582][281]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Rear Sigh
+[2018.10.28-14.58.16:583][281]LogSkeletalMesh: Building Skeletal Mesh Revolver_Rear Sigh...
+[2018.10.28-14.58.16:584][281]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Rifle/Revolver.Revolver_Rear Sigh
+[2018.10.28-14.58.16:879][281]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.17:024][281]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Assets/Rifle/Revolver_Rear Sigh_Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2018.10.28-14.58.29:098][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Rifle/gun" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Rifle/gun.uasset" SILENT=true
+[2018.10.28-14.58.29:117][863]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/gunC244F6FE4A0F772938EBFBB0B9CD10B8.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Rifle/gun.uasset'
+[2018.10.28-14.58.29:129][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Rifle/M1Rifle" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Rifle/M1Rifle.uasset" SILENT=true
+[2018.10.28-14.58.29:144][863]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/M1Rifle06C8A2BB47F9AA3D1B264A9898FD84A2.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Rifle/M1Rifle.uasset'
+[2018.10.28-14.58.29:168][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Rifle/Test" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Rifle/Test.uasset" SILENT=true
+[2018.10.28-14.58.29:187][863]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Test52CC6003494AB044F97A79832DB1DB9A.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Rifle/Test.uasset'
+[2018.10.28-14.58.29:211][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Rifle/SK_FPGun" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Rifle/SK_FPGun.uasset" SILENT=true
+[2018.10.28-14.58.29:242][863]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/SK_FPGunA263111D43B51E7CEB4429AB98567268.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Rifle/SK_FPGun.uasset'
+[2018.10.28-14.58.29:266][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Rifle/RifleObj" FILE="D:/Developpement/Unreal/FeteForaine/Content/Assets/Rifle/RifleObj.uasset" SILENT=true
+[2018.10.28-14.58.29:284][863]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/RifleObj5E6F8C3C42D782216AA343B021AE8B35.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Assets/Rifle/RifleObj.uasset'
+[2018.10.28-14.58.29:904][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interactables/BaseInteractable" FILE="D:/Developpement/Unreal/FeteForaine/Content/Interactables/BaseInteractable.uasset" SILENT=true
+[2018.10.28-14.58.29:990][863]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/BaseInteractableA98892D4462D59F3A32D4DB96BD11537.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/Interactables/BaseInteractable.uasset'
+[2018.10.28-14.58.42:639][921]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.28-14.58.43:353][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Crip...
+[2018.10.28-14.58.43:654][921]LogSkeletalMesh: Built Skeletal Mesh [0.30s] /Game/Assets/Gun/Revolver_Crip.Revolver_Crip
+[2018.10.28-14.58.43:677][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Crip...
+[2018.10.28-14.58.43:979][921]LogSkeletalMesh: Built Skeletal Mesh [0.30s] /Game/Assets/Gun/Revolver_Crip.Revolver_Crip
+[2018.10.28-14.58.44:009][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Crip...
+[2018.10.28-14.58.44:307][921]LogSkeletalMesh: Built Skeletal Mesh [0.30s] /Game/Assets/Gun/Revolver_Crip.Revolver_Crip
+[2018.10.28-14.58.44:332][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Cylinder...
+[2018.10.28-14.58.44:394][921]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Assets/Gun/Revolver_Cylinder.Revolver_Cylinder
+[2018.10.28-14.58.44:398][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Cylinder...
+[2018.10.28-14.58.44:460][921]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Assets/Gun/Revolver_Cylinder.Revolver_Cylinder
+[2018.10.28-14.58.44:469][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Cylinder...
+[2018.10.28-14.58.44:522][921]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Assets/Gun/Revolver_Cylinder.Revolver_Cylinder
+[2018.10.28-14.58.44:527][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Trigger...
+[2018.10.28-14.58.44:528][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Trigger.Revolver_Trigger
+[2018.10.28-14.58.44:531][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Trigger...
+[2018.10.28-14.58.44:532][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Trigger.Revolver_Trigger
+[2018.10.28-14.58.44:533][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Trigger...
+[2018.10.28-14.58.44:534][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Trigger.Revolver_Trigger
+[2018.10.28-14.58.44:536][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Hammer...
+[2018.10.28-14.58.44:537][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Hammer.Revolver_Hammer
+[2018.10.28-14.58.44:538][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Hammer...
+[2018.10.28-14.58.44:539][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Hammer.Revolver_Hammer
+[2018.10.28-14.58.44:542][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Hammer...
+[2018.10.28-14.58.44:543][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Hammer.Revolver_Hammer
+[2018.10.28-14.58.44:544][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Screw...
+[2018.10.28-14.58.44:547][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Screw.Revolver_Screw
+[2018.10.28-14.58.44:550][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Screw...
+[2018.10.28-14.58.44:553][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Screw.Revolver_Screw
+[2018.10.28-14.58.44:553][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Screw...
+[2018.10.28-14.58.44:556][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Screw.Revolver_Screw
+[2018.10.28-14.58.44:557][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Latch...
+[2018.10.28-14.58.44:573][921]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Assets/Gun/Revolver_Latch.Revolver_Latch
+[2018.10.28-14.58.44:575][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Latch...
+[2018.10.28-14.58.44:590][921]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Assets/Gun/Revolver_Latch.Revolver_Latch
+[2018.10.28-14.58.44:595][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Latch...
+[2018.10.28-14.58.44:609][921]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Assets/Gun/Revolver_Latch.Revolver_Latch
+[2018.10.28-14.58.44:610][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Pipe...
+[2018.10.28-14.58.44:615][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Pipe.Revolver_Pipe
+[2018.10.28-14.58.44:616][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Pipe...
+[2018.10.28-14.58.44:620][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Pipe.Revolver_Pipe
+[2018.10.28-14.58.44:624][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Pipe...
+[2018.10.28-14.58.44:629][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Pipe.Revolver_Pipe
+[2018.10.28-14.58.44:630][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Body...
+[2018.10.28-14.58.44:641][921]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Assets/Gun/Revolver_Body.Revolver_Body
+[2018.10.28-14.58.44:643][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Body...
+[2018.10.28-14.58.44:656][921]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Assets/Gun/Revolver_Body.Revolver_Body
+[2018.10.28-14.58.44:661][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Body...
+[2018.10.28-14.58.44:673][921]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Assets/Gun/Revolver_Body.Revolver_Body
+[2018.10.28-14.58.44:674][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet...
+[2018.10.28-14.58.44:676][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet.Revolver_Bullet
+[2018.10.28-14.58.44:677][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet...
+[2018.10.28-14.58.44:679][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet.Revolver_Bullet
+[2018.10.28-14.58.44:682][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet...
+[2018.10.28-14.58.44:684][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet.Revolver_Bullet
+[2018.10.28-14.58.44:685][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_001...
+[2018.10.28-14.58.44:687][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_001.Revolver_Bullet_001
+[2018.10.28-14.58.44:687][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_001...
+[2018.10.28-14.58.44:689][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_001.Revolver_Bullet_001
+[2018.10.28-14.58.44:694][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_001...
+[2018.10.28-14.58.44:696][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_001.Revolver_Bullet_001
+[2018.10.28-14.58.44:696][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_002...
+[2018.10.28-14.58.44:698][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_002.Revolver_Bullet_002
+[2018.10.28-14.58.44:699][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_002...
+[2018.10.28-14.58.44:701][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_002.Revolver_Bullet_002
+[2018.10.28-14.58.44:704][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_002...
+[2018.10.28-14.58.44:706][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_002.Revolver_Bullet_002
+[2018.10.28-14.58.44:707][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_003...
+[2018.10.28-14.58.44:709][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_003.Revolver_Bullet_003
+[2018.10.28-14.58.44:710][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_003...
+[2018.10.28-14.58.44:712][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_003.Revolver_Bullet_003
+[2018.10.28-14.58.44:715][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_003...
+[2018.10.28-14.58.44:717][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_003.Revolver_Bullet_003
+[2018.10.28-14.58.44:718][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_004...
+[2018.10.28-14.58.44:720][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_004.Revolver_Bullet_004
+[2018.10.28-14.58.44:720][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_004...
+[2018.10.28-14.58.44:722][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_004.Revolver_Bullet_004
+[2018.10.28-14.58.44:727][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_004...
+[2018.10.28-14.58.44:728][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_004.Revolver_Bullet_004
+[2018.10.28-14.58.44:729][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_005...
+[2018.10.28-14.58.44:731][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_005.Revolver_Bullet_005
+[2018.10.28-14.58.44:732][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_005...
+[2018.10.28-14.58.44:733][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_005.Revolver_Bullet_005
+[2018.10.28-14.58.44:738][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_005...
+[2018.10.28-14.58.44:741][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_005.Revolver_Bullet_005
+[2018.10.28-14.58.44:743][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_006...
+[2018.10.28-14.58.44:745][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_006.Revolver_Bullet_006
+[2018.10.28-14.58.44:745][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_006...
+[2018.10.28-14.58.44:748][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_006.Revolver_Bullet_006
+[2018.10.28-14.58.44:751][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_006...
+[2018.10.28-14.58.44:753][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_006.Revolver_Bullet_006
+[2018.10.28-14.58.44:754][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_007...
+[2018.10.28-14.58.44:756][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_007.Revolver_Bullet_007
+[2018.10.28-14.58.44:757][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_007...
+[2018.10.28-14.58.44:759][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_007.Revolver_Bullet_007
+[2018.10.28-14.58.44:763][921]LogSkeletalMesh: Building Skeletal Mesh Revolver_Bullet_007...
+[2018.10.28-14.58.44:765][921]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Gun/Revolver_Bullet_007.Revolver_Bullet_007
+[2018.10.28-14.59.01:180][291]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/UE/Revolver.fbx)
+[2018.10.28-14.59.01:212][291]LogFbx: Loading FBX Scene from E:/UE/Revolver.fbx
+[2018.10.28-14.59.01:358][291]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.28-14.59.29:281][291]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.28-14.59.29:352][291]LogMaterial: Display: Missing cached shader map for material Bullet, compiling. 
+[2018.10.28-14.59.29:366][291]LogFbx: Warning: Triangulating static mesh Bullet.007
+[2018.10.28-14.59.29:530][291]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.28-14.59.29:530][291]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.28-14.59.29:530][291]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.28-14.59.29:530][291]LogFbx: Warning: Triangulating static mesh Bullet.006
+[2018.10.28-14.59.29:602][291]LogFbx: Warning: Triangulating static mesh Bullet.005
+[2018.10.28-14.59.29:676][291]LogFbx: Warning: Triangulating static mesh Bullet.004
+[2018.10.28-14.59.29:750][291]LogFbx: Warning: Triangulating static mesh Bullet.003
+[2018.10.28-14.59.29:822][291]LogFbx: Warning: Triangulating static mesh Bullet.002
+[2018.10.28-14.59.29:898][291]LogMaterial: Display: Missing cached shader map for material Bullet_2, compiling. 
+[2018.10.28-14.59.29:914][291]LogFbx: Warning: Triangulating static mesh Bullet.001
+[2018.10.28-14.59.29:987][291]LogFbx: Warning: Triangulating static mesh Bullet
+[2018.10.28-14.59.30:066][291]LogMaterial: Display: Missing cached shader map for material Rear_Sigh, compiling. 
+[2018.10.28-14.59.30:082][291]LogFbx: Warning: Triangulating static mesh Rear Sigh
+[2018.10.28-14.59.30:153][291]LogMaterial: Display: Missing cached shader map for material Body, compiling. 
+[2018.10.28-14.59.30:167][291]LogFbx: Warning: Triangulating static mesh Body
+[2018.10.28-14.59.30:632][291]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.10.28-14.59.30:635][291]LogMaterial: Display: Missing cached shader map for material Pipe, compiling. 
+[2018.10.28-14.59.30:650][291]LogFbx: Warning: Triangulating static mesh Pipe
+[2018.10.28-14.59.30:851][291]LogMaterial: Display: Missing cached shader map for material Latch, compiling. 
+[2018.10.28-14.59.30:866][291]LogFbx: Warning: Triangulating static mesh Latch
+[2018.10.28-14.59.31:329][291]LogMaterial: Display: Missing cached shader map for material Screw, compiling. 
+[2018.10.28-14.59.31:344][291]LogFbx: Warning: Triangulating static mesh Screw
+[2018.10.28-14.59.31:425][291]LogMaterial: Display: Missing cached shader map for material Hammer, compiling. 
+[2018.10.28-14.59.31:439][291]LogFbx: Warning: Triangulating static mesh Hammer
+[2018.10.28-14.59.31:488][291]LogMaterial: Display: Missing cached shader map for material Trigger, compiling. 
+[2018.10.28-14.59.31:502][291]LogFbx: Warning: Triangulating static mesh Trigger
+[2018.10.28-14.59.31:547][291]LogMaterial: Display: Missing cached shader map for material Cylinder, compiling. 
+[2018.10.28-14.59.31:563][291]LogFbx: Warning: Triangulating static mesh Cylinder
+[2018.10.28-14.59.33:232][291]LogMaterial: Display: Missing cached shader map for material Crip, compiling. 
+[2018.10.28-14.59.33:247][291]LogFbx: Warning: Triangulating static mesh Crip
+[2018.10.28-14.59.41:075][291]LogShaderCompilers: Display: Shaders left to compile 210
+[2018.10.28-14.59.41:075][291]LogShaderCompilers: Display: Shaders left to compile 200
+[2018.10.28-14.59.41:075][291]LogShaderCompilers: Display: Shaders left to compile 190
+[2018.10.28-14.59.41:076][291]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.10.28-14.59.41:076][291]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.10.28-14.59.41:076][291]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.10.28-14.59.42:630][291]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.10.28-14.59.42:630][291]LogStaticMesh: Building static mesh Revolver...
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.28-15.00.04:639][291]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.28-15.00.04:640][291]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.28-15.00.04:640][291]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.28-15.00.04:640][291]LogStaticMesh: Built static mesh [22.01s] /Game/Assets/Gun/Revolver.Revolver
+[2018.10.28-15.00.05:064][291]LogStaticMesh: Warning: Revolver has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2018.10.28-15.00.05:064][291]LogStaticMesh: Warning: Revolver has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.10.28-15.00.05:566][291]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.28-15.00.05:567][291]FBXImport: Warning: Revolver has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2018.10.28-15.00.05:567][291]FBXImport: Warning: Revolver has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.10.28-15.00.09:531][492]LogSlate: Window 'Message Log' being destroyed
+[2018.10.28-15.00.09:534][492]LogSlate: Window 'Message Log' being destroyed
+[2018.10.28-15.00.29:902][  3]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.28-15.00.36:943][375]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/UE/Colt_Python.FBX)
+[2018.10.28-15.00.36:955][375]LogFbx: Loading FBX Scene from E:/UE/Colt_Python.FBX
+[2018.10.28-15.00.37:012][375]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.28-15.00.39:119][375]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.28-15.00.39:154][375]LogLinker: Can't find file '/Game/Assets/Gun/diffuse'
+[2018.10.28-15.00.39:154][375]LogLinker: Can't find file '/Game/Assets/Gun/diffuse'
+[2018.10.28-15.00.39:160][375]LogFbxMaterialImport: Warning: Unable to find Texture file diffuse.tga
+[2018.10.28-15.00.39:160][375]LogLinker: Can't find file '/Game/Assets/Gun/specular'
+[2018.10.28-15.00.39:161][375]LogLinker: Can't find file '/Game/Assets/Gun/specular'
+[2018.10.28-15.00.39:161][375]LogFbxMaterialImport: Warning: Unable to find Texture file specular.tga
+[2018.10.28-15.00.39:161][375]LogLinker: Can't find file '/Game/Assets/Gun/gloss'
+[2018.10.28-15.00.39:161][375]LogLinker: Can't find file '/Game/Assets/Gun/gloss'
+[2018.10.28-15.00.39:161][375]LogFbxMaterialImport: Warning: Unable to find Texture file gloss.tga
+[2018.10.28-15.00.39:161][375]LogLinker: Can't find file '/Game/Assets/Gun/normal'
+[2018.10.28-15.00.39:162][375]LogLinker: Can't find file '/Game/Assets/Gun/normal'
+[2018.10.28-15.00.39:162][375]LogFbxMaterialImport: Warning: Unable to find Texture file normal.tga
+[2018.10.28-15.00.39:165][375]LogMaterial: Display: Missing cached shader map for material Colt_Python1, compiling. 
+[2018.10.28-15.00.39:227][375]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.28-15.00.39:227][375]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.28-15.00.39:227][375]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.28-15.00.39:256][375]LogStaticMesh: Building static mesh Colt_Python...
+[2018.10.28-15.00.39:393][375]LogStaticMesh: Built static mesh [0.14s] /Game/Assets/Gun/Colt_Python.Colt_Python
+[2018.10.28-15.00.39:445][375]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.28-15.00.42:110][508]LogSlate: Window 'Message Log' being destroyed
+[2018.10.28-15.01.25:819][504]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.031
+[2018.10.28-15.01.25:889][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Gun/Colt_Python] ([1] browsable assets)...
+[2018.10.28-15.01.25:915][504]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Gun/Colt_Python.Colt_Python]
+[2018.10.28-15.01.25:915][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Gun/Colt_Python]
+[2018.10.28-15.01.25:915][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Colt_Python" FILE="D:/Developpement/Unreal/FeteForaine/Saved/Autosaves/Game/Assets/Gun/Colt_Python_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-15.01.25:933][504]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Colt_Python_Auto1DD61D9F546D7C9BACA08E299DBEB9E44.tmp' to 'D:/Developpement/Unreal/FeteForaine/Saved/Autosaves/Game/Assets/Gun/Colt_Python_Auto1.uasset'
+[2018.10.28-15.01.25:934][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Gun/Colt_Python1] ([1] browsable assets)...
+[2018.10.28-15.01.25:954][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Gun/Colt_Python1.Colt_Python1]
+[2018.10.28-15.01.25:954][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Gun/Colt_Python1]
+[2018.10.28-15.01.25:954][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gun/Colt_Python1" FILE="D:/Developpement/Unreal/FeteForaine/Saved/Autosaves/Game/Assets/Gun/Colt_Python1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.28-15.01.25:970][504]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/Colt_Python1_Auto188187A5F4EFCC8501353CB9AAC93F186.tmp' to 'D:/Developpement/Unreal/FeteForaine/Saved/Autosaves/Game/Assets/Gun/Colt_Python1_Auto1.uasset'
+[2018.10.28-15.01.25:971][504]LogFileHelpers: Auto-saving content packages took 0.151
+[2018.10.28-15.02.02:545][562]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.28-15.03.06:861][690]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/UE/colt_python_textures_2048/Colt_Python.FBX)
+[2018.10.28-15.03.06:873][690]LogFbx: Loading FBX Scene from E:/UE/colt_python_textures_2048/Colt_Python.FBX
+[2018.10.28-15.03.06:892][690]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.28-15.03.08:088][690]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.28-15.03.08:655][690]LogTexture: Display: Building textures: diffuse (AutoDXT, 2048X2048)
+[2018.10.28-15.03.14:543][690]LogTexture: Display: Building textures: specular (AutoDXT, 2048X2048)
+[2018.10.28-15.03.18:416][690]LogTexture: Display: Building textures: gloss (AutoDXT, 2048X2048)
+[2018.10.28-15.03.21:902][690]LogTexture: Display: Building textures: normal (BC5, 2048X2048)
+[2018.10.28-15.03.22:410][690]LogMaterial: Display: Missing cached shader map for material Colt_Python1, compiling. 
+[2018.10.28-15.03.22:473][690]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.28-15.03.22:473][690]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.28-15.03.22:473][690]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.28-15.03.22:522][690]LogStaticMesh: Building static mesh Colt_Python...
+[2018.10.28-15.03.22:656][690]LogStaticMesh: Built static mesh [0.13s] /Game/Assets/Gun/Colt_Python.Colt_Python
+[2018.10.28-15.03.22:693][690]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.28-15.03.26:166][869]LogSlate: Window 'Message Log' being destroyed
+[2018.10.28-15.03.36:018][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-15.03.36:552][485]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/FirstPersonExampleMap62248AAD4FBA4A902ECBC798A3A45E1E.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.10.28-15.03.36:711][485]LogSavePackage: Moving 'D:/Developpement/Unreal/FeteForaine/Saved/FirstPersonExampleMap_BuiltDataCEBE804E4F84C2CC4450B884BB692CB8.tmp' to 'D:/Developpement/Unreal/FeteForaine/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.10.28-15.03.37:988][561]LogActorFactory: Actor Factory created Colt_Python
+[2018.10.28-15.03.39:750][663]LogActorFactory: Actor Factory created Colt_Python
+[2018.10.28-15.03.47:083][168]Cmd: DELETE
+[2018.10.28-15.03.47:083][168]Cmd: ACTOR DELETE
+[2018.10.28-15.03.47:105][168]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.28-15.03.47:137][168]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.10.28-15.03.52:994][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-15.04.01:426][850]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:304 
+ with error E_INVALIDARG
+[2018.10.28-15.04.01:426][850]LogWindows: Windows GetLastError: L’opération a réussi. (0)
